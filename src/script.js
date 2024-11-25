@@ -225,11 +225,6 @@ for (let i = 0; i < graves.children.length; i++) {
     scene.add(horizontalCross)
 }
 
-
-
-
-
-
 /**
  * Lights
  */
